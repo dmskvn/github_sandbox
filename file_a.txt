@@ -8,3 +8,4 @@ next message
 Modify file after git add
 here
 
+modify this file from branch f2
