@@ -5,6 +5,6 @@ modification of both files
 
 next message
 
-M
-odify file after git add
+Modify file after git add
 here
+
