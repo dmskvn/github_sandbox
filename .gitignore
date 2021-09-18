@@ -1,3 +1,4 @@
 #This file lists templates of files that will be ignored
 #for commiting and adding
 log/
+folder_to_ignore/
